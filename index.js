@@ -43,7 +43,7 @@ default :
 
 console.log("\nEXERCITIUL 2 var.1")
 
-const text = "gldsvl dbsflvb sdlfvbdljbfv";
+const text = "gldsvl d";
 
 
    if(text.length > 10) {
@@ -59,7 +59,7 @@ const text = "gldsvl dbsflvb sdlfvbdljbfv";
 
 console.log("\nEXERCITIUL 2 var.2")
 
-var str = "gldsvl dbsflvb sdlfvbdljbfv";
+var str = "gld";
 
 var lungStr;
 
